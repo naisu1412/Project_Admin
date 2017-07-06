@@ -19,6 +19,11 @@ Route::get('admin', function () {
     return view('pages/admin/index');
 });
 
+Route::get('adminv2', function () {
+    return view('pages/admin/index2');
+});
+
+
 Route::get('login', function () {
     return view('pages/login');
 });
@@ -211,7 +216,7 @@ Route::get('widgets', function(){
 });
 
 Route::get('calendar', function(){
-        return view('pages/admin/adminPages/calendar');
+        return view('pages/admin/adminPages/calendar/calendar');
 });
 
 Route::get('layouts/topNav', function(){

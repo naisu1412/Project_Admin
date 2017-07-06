@@ -19,5 +19,7 @@
   <!-- Daterange picker -->
   <link rel="stylesheet" href="{{ asset("/admin-lte/plugins/daterangepicker/daterangepicker.css")}}">
   <!-- bootstrap wysihtml5 - text editor -->
-  <link rel="stylesheet" href="{{ asset("/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" )}}">
-
+  <link rel="stylesheet" href="{{ asset("/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" )}}"> 
+  <!-- fullCalendar 2.2.5-->
+  <link rel="stylesheet" href="{{ asset("/admin-lte/plugins/fullcalendar/fullcalendar.min.css")}}">
+  <link rel="stylesheet" href="{{ asset("/admin-lte/plugins/fullcalendar/fullcalendar.print.css")}}" media="print">
