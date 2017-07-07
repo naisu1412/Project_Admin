@@ -1,0 +1,1536 @@
+{
+    //start of Dowell
+   "brandName" : [
+      {
+         "itemCode" : "DWAC0019",
+         "category" : "Cooling",
+         "model" : "AMC-77S RED|Air Mist Cooler",
+         "description" : "Slim Design,Ultrasonic Humidifier, LED Display,Three Speed Function,Mosquito Repellent Feature, LED water level indicator, 1.8L water tank, Swing Function,Up to 8 hours off timer, 90 watts",
+         //others
+         "Sub-category" : "Air Mist Cooler",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 26,
+         "Dimension(width in cm)" : 45.5,
+         "Dimension(height in cm)" : 84,
+         "CBM of the packaging" : 0.1,
+         "SRP" : "6,550.00"
+        
+
+
+      },    
+      {
+         "itemCode" : "DWAC0018",
+         "category" : "Cooling",
+         "model" : "AMC-77S WHITE|Air Mist Cooler",
+         "description" : "Slim Design,Ultrasonic Humidifier, LED Display,Three Speed Function,Mosquito Repellent Feature, LED water level indicator, 1.8L water tank, Swing Function,Up to 8 hours off timer, 90 watts",
+         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Air Mist Cooler",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 26,
+         "Dimension(width in cm)" : 45.5,
+         "Dimension(height in cm)" : 84,
+         "CBM of the packaging" : 0.1,
+         "SRP" : "6,550.00"
+      },
+      {
+         "itemCode" : "DWAC0013",
+         "category" : "Cooling",
+         "model" : "ARC-15 LIGHT BLUE | Air Cooler",
+         "description" : "5 Liter water capacity,  speed function, water level indicator, uses honey comb filter in humidifying, detachable water tank, negative ion generator, swing function, remote controlled, up to 7.5 hours of off timer settings, with LED indicator, 65 watts",
+         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Air Cooler",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 46,
+         "Dimension(width in cm)" : 28,
+         "Dimension(height in cm)" : 76.5,
+         "CBM of the packaging" : 0.1,
+         "SRP" : "4,200.00"
+      },
+      {
+         "itemCode" : "DWAC0009",
+         "category" : "Cooling",
+         "model" : "ARC-15 WHITE | Air Cooler",
+         "description" : "5 Liter water capacity,  speed function, water level indicator, uses honey comb filter in humidifying, detachable water tank, negative ion generator, swing function, remote controlled, up to 7.5 hours of off timer settings, with LED indicator, 65 watts",
+         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Air Cooler",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 46,
+         "Dimension(width in cm)" : 28,
+         "Dimension(height in cm)" : 76.5,
+         "CBM of the packaging" : 0.1,
+         "SRP" : "4,200.00"
+      },
+      {
+         "itemCode" : "DWAC0012",
+         "category" : "Cooling",
+         "model" : "ESC-360 | Eco-Smart Cooler",
+         "description" : "90° Horizontal Oscillation, LED Display Ultra-thin with elegant and classic design, 3 levels of speed function (Low, Medium, High), 3 wind modes (Natural, Sleeping, Normal), 36 inches in height, Memory function (Resumes to original setting after an unexpected power outrage), ECO function determines environment temperature and automatically adjust for total cooling experience and energy saving, ECO friendly for Low carbon emission and Easy to Assembly, Remote-Controlled, 65 watts",
+         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Eco-Smart Cooler",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 37.5,
+         "Dimension(width in cm)" : 24,
+         "Dimension(height in cm)" : 91.5,
+         "CBM of the packaging" : 0.9,
+         "SRP" : "6,350.00"
+      },
+     {
+         "itemCode" : "DWAC0023",
+         "category" : "Cooling",
+         "model" : "ESC-380 | Eco-Smart Cooler",
+         "description" : "Unique Design, 60°/90°/180°/360° horizontal oscillation angle, and 90° vertical oscillation, touch control panel, LED Display,  wind Speed, 1,2,4,8  hours timer, Easy Control with Remote,38 inches in height, 65 Watts",
+         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Eco-Smart Cooler",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 71,
+         "Dimension(width in cm)" : 31.5,
+         "Dimension(height in cm)" : 43.5,
+         "CBM of the packaging" : 0.9,
+         "SRP" : "7,380.00"
+      },
+
+           {
+         "itemCode" : "DWEF0111BL",
+         "category" : "Cooling",
+         "model" : "LF-18BR BLUE | Living Fan",
+         "description" : "18\" living fan, poweful motor protected with thermal fuse, 180 degrees oscillation, 3 speed motor selection, 3 soft button  switch80 watts",
+         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Living Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 56,
+         "Dimension(width in cm)" : 24.5,
+         "Dimension(height in cm)" : 51,
+         "CBM of the packaging" : 0.007,
+         "SRP" : "1,580.00"
+      },
+
+           {
+         "itemCode" : "DWEF0111GY",
+         "category" : "Cooling",
+         "model" : "LF-18BR GRAY | Living Fan",
+         "description" : "18\" living fan, poweful motor protected with thermal fuse, 180 degrees oscillation, 3 speed motor selection, 3 soft button  switch80 watts", 
+         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Living Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 56,
+         "Dimension(width in cm)" : 24.5,
+         "Dimension(height in cm)" : 51,
+         "CBM of the packaging" : 0.007,
+         "SRP" : "  1,580.00 "
+      },
+
+       {
+         "itemCode" : "DWEF0033",
+         "category" : "Cooling",
+         "model" : "STF-167B RED | Stand Fan",
+         "description" : "16\" stand fan, reliable motor protected with Thermal Fuse, oscillating motion, 60 watts",         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Stand Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 46,
+         "Dimension(width in cm)" : 27.5,
+         "Dimension(height in cm)" : 46,
+         "CBM of the packaging" : 0.06,
+         "SRP" : "  1,380.00 "
+      },
+      {
+         "itemCode" : "DWEF0024",
+         "category" : "Cooling",
+         "model" : "STF-167B GREEN | Stand Fan",
+         "description" : "16\" stand fan, reliable motor protected with Thermal Fuse, oscillating motion, 60 watts",         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Stand Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 46,
+         "Dimension(width in cm)" : 27.5,
+         "Dimension(height in cm)" : 46,
+         "CBM of the packaging" : 0.06,
+         "SRP" : "  1,380.00 "
+      },
+        {
+         "itemCode" : "DWEF0032",
+         "category" : "Cooling",
+         "model" : "STF-167B PINK | Stand Fan",
+         "description" : "16\" stand fan, reliable motor protected with Thermal Fuse, oscillating motion, 60 watts",         //other descriptions, length, width, srp, ..etc
+         "Sub-category" : "Stand Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 46,
+         "Dimension(width in cm)" : 27.5,
+         "Dimension(height in cm)" : 46,
+         "CBM of the packaging" : 0.06,
+         "SRP" : "  1,380.00 "
+      },
+      
+      {
+         "itemCode" : "DWHD0008",
+         "category" : "Cooling",
+         "model" : "HDST24 | Stand Fan",
+         "description" : "24\" industrial fan, oscillating motion, powerful motor protected with thermal fuse, 5 stainless blade, bigger strands, steel base, Available color: Gray, 350 watts",
+         "Sub-category" : "Stand Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 67,
+         "Dimension(width in cm)" : 26,
+         "Dimension(height in cm)" : 67,
+         "CBM of the packaging" : 0.12,
+         "SRP" : "    6,550.00  "
+      },
+       {
+         "itemCode" : "DWEF0006",
+         "category" : "Cooling",
+         "model" : "IFST-16PR | Industrial Fan",
+         "description" : "16\"industrial stand fan, stainless blade, oscillating motion, poweful motor protected with thermal fuse, available colors: blue & maroon, 65 watts",
+        //others
+         "Sub-category" : "Industrial Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 45.5,
+         "Dimension(width in cm)" : 25,
+         "Dimension(height in cm)" : 44.5,
+         "CBM of the packaging" : 0.05,
+         "SRP" : "      1,380.00   "
+      },
+            {
+         "itemCode" : "DWHD0008",
+         "category" : "Cooling",
+         "model" : "HDST24 | Stand Fan",
+         "description" : "24\" industrial fan, oscillating motion, powerful motor protected with thermal fuse, 5 stainless blade, bigger strands, steel base, Available color: Gray, 350 watts",
+         "Sub-category" : "Stand Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 67,
+         "Dimension(width in cm)" : 26,
+         "Dimension(height in cm)" : 67,
+         "CBM of the packaging" : 0.12,
+         "SRP" : "    6,550.00  "
+      },
+         {
+         "itemCode" : "DWEF0114",
+         "category" : "Cooling",
+         "model" : "STF-163F BLUE | Stand Fan",
+         "description" : "16\" stand fan, reliable motor protected with Thermal Fuse, oscillating motion, Available color: Blue, 60 watts",
+        //others
+         "Sub-category" : "Stand Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 46,
+         "Dimension(width in cm)" : 25,
+         "Dimension(height in cm)" : 45.5,
+         "CBM of the packaging" : 0.06,
+         "SRP" : "      1,480.00   "
+      },
+     
+         {
+         "itemCode" : "DWEF0067GY",
+         "category" : "Cooling",
+         "model" : "OF-160 | Orbit Fan",
+         "description" : "Powerful motor protected with Thermal Fuse. Separate Rotary switch with 4 speed function. Mounting assembly, 65 watts",
+        //others
+         "Sub-category" : "Orbit Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 46,
+         "Dimension(width in cm)" : 24,
+         "Dimension(height in cm)" : 44.5,
+         "CBM of the packaging" : 0.05,
+         "SRP" : "        1,650.00    "
+      },
+       {
+         "itemCode" : "DWIF0002BL",
+         "category" : "Cooling",
+         "model" : "IF-E0016KR BLUE | Floor Fan",
+         "description" : "16\"colored industrial floor fan, AS blade, oscillating motion, powerful motor protected with thermal fuse,  60 watts",
+        //others
+         "Sub-category" : "Floor Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 47,
+         "Dimension(width in cm)" : 21.5,
+         "Dimension(height in cm)" : 47.5,
+         "CBM of the packaging" : 0.05,
+         "SRP" : "        1,350.00    "
+      },
+       {
+         "itemCode" : "DWIF0002MR",
+         "category" : "Cooling",
+         "model" : "IF-E0016KR MAROON | Floor Fan",
+         "description" : "16\"colored industrial floor fan, AS blade, oscillating motion, powerful motor protected with thermal fuse,  60 watts",
+        //others
+         "Sub-category" : "Floor Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 47,
+         "Dimension(width in cm)" : 21.5,
+         "Dimension(height in cm)" : 47.5,
+         "CBM of the packaging" : 0.05,
+         "SRP" : "        1,350.00    "
+      },
+      {
+         "itemCode" : "DWIF0002MR",
+         "category" : "Cooling",
+         "model" : "IF-E0016KR MAROON | Floor Fan",
+         "description" : "16\"colored industrial floor fan, AS blade, oscillating motion, powerful motor protected with thermal fuse,  60 watts",
+        //others
+         "Sub-category" : "Floor Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 47,
+         "Dimension(width in cm)" : 21.5,
+         "Dimension(height in cm)" : 47.5,
+         "CBM of the packaging" : 0.05,
+         "SRP" : "        1,350.00    "
+      },
+
+      {
+         "itemCode" : "DWEF0010",
+         "category" : "Cooling",
+         "model" : "TF-716 BLACK | Table Fan",
+         "description" : "16\" desk fan, 5 high grade plastic blade, ring type grill lock for maximum safety, enamel coated front and back grills,60 watts",
+        //others
+         "Sub-category" : "Table Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 49.5,
+         "Dimension(width in cm)" : 27,
+         "Dimension(height in cm)" : 45.5,
+         "CBM of the packaging" : 0.06,
+         "SRP" : "        1,350.00    "
+      },
+        {
+         "itemCode" : "DWEF0007",
+         "category" : "Cooling",
+         "model" : "TF-716 BLUE | Table Fan",
+         "description" : "16\" desk fan, 5 high grade plastic blade, ring type grill lock for maximum safety, enamel coated front and back grills,60 watts",
+        //others
+         "Sub-category" : "Table Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 49.5,
+         "Dimension(width in cm)" : 27,
+         "Dimension(height in cm)" : 45.5,
+         "CBM of the packaging" : 0.06,
+         "SRP" : "        1,350.00    "
+      },
+        {
+         "itemCode" : "DWEF0031",
+         "category" : "Cooling",
+         "model" : "TF-816B BLUE | Table Fan",
+         "description" : "16\" desk fan, reliable motor protected with Thermal Fuse, Oscillating motion, AS Plastic Blade, clip type grill 60 watts" ,        //others
+         "Sub-category" : "Table Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 27,
+         "Dimension(width in cm)" : 21,
+         "Dimension(height in cm)" : 43,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "        1,180.00    "
+      },
+      {
+         "itemCode" : "DWEF0027",
+         "category" : "Cooling",
+         "model" : "TF-816B RED | Table Fan",
+         "description" : "16\" desk fan, reliable motor protected with Thermal Fuse, Oscillating motion, AS Plastic Blade, clip type grill 60 watts" ,        //others
+         "Sub-category" : "Table Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 27,
+         "Dimension(width in cm)" : 21,
+         "Dimension(height in cm)" : 43,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "        1,180.00    "
+      },
+      {
+         "itemCode" : "DWWF0003BK",
+         "category" : "Cooling",
+         "model" : "DWF-1680 BLACK | Wall Fan",
+         "description" : "16\" wall fan, wall mount with 2 screw holes, powerful motor protected with thermal fuse, plastic fan blade, 60 watts" ,        //others
+         "Sub-category" : "Wall Fan",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 45,
+         "Dimension(width in cm)" : 20,
+         "Dimension(height in cm)" : 43.5,
+         "CBM of the packaging" : 0.04,
+         "SRP" : "        1,550.00    "
+      },
+
+      {
+         "itemCode" : "DWCO0003",
+         "category" : "Cooking",
+         "model" : "CF-105PS BLACK | Chocolate Fountain",
+         "description" : "Readily assembled three tiers chocolate fountain, 300ml removable bowl capacity, single switch knob - auger and heat, heated base to keep chocolate flowing, light indicator, plastic body, thermostat control, 60 watts" , 
+                //others
+         "Sub-category" : "Chocolate Fountain",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 16.5,
+         "Dimension(width in cm)" : 16.5,
+         "Dimension(height in cm)" : 26.2,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "        1,180.00    "
+      },
+      {
+         "itemCode" : "DWMV0008",
+         "category" : "Cooking",
+         "model" : "MO-18 | Microwave Oven",
+         "description" : "20 Liters capacity, 6 power levels,  large space cavity with turn table, easy to open handle, 30mins. timer settings, off indicator(bell), 1050 watts" , 
+                //others
+         "Sub-category" : "Microwave Oven",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 48.8,
+         "Dimension(width in cm)" : 38,
+         "Dimension(height in cm)" : 29,
+         "CBM of the packaging" : 0.06,
+         "SRP" : "          4,200.00    "
+      },
+      {
+         "itemCode" : "DWMX0002",
+         "category" : "Cooking",
+         "model" : "SM-900S | Stand Mixer",
+         "description" : "Stainless steel self rotating mixing bowl, 5 speed pulse function, 250 watts" , 
+                //others
+         "Sub-category" : "Stand Mixer",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 23,
+         "Dimension(width in cm)" : 31,
+         "Dimension(height in cm)" : 25,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "        2,750.00     "
+      },
+
+      {
+         "itemCode" : "DWND0009",
+         "category" : "Cooking",
+         "model" : "IC-51TC | Double Induction Cooker",
+         "description" : "Six preset cooking functions: stir fry, hotpot, Boil, Steam and Hot Milk, 9 Power level setings, Off timer settings up to 3hrs, Preset Timer up to 24hrs, Child Lock function, faster Cooking, energy saving, Easy to clean, Safe to use: surface is cool to touch and no flame, thermal fuse protected, auto shut-off when using non-ferromagnetc type of cookware. ferromagnetic sensor, 2600 watts" , 
+                //others
+         "Sub-category" : "Induction Cooker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 64.5,
+         "Dimension(width in cm)" : 9,
+         "Dimension(height in cm)" : 41.5,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "    8,180.00    "
+      },
+
+      {
+         "itemCode" : "DWND0004",
+         "category" : "Cooking",
+         "model" : "ICS-23 | Single Induction Cooker",
+         "description" : "6 preset cooking function, touch pad switch, LED indicator, Ferromagnetic detector, 9 Power level settings, 9 level adjustable temperature, thermal fuse protected, timer setting, auto shut-off function and temperature setting,5 kg allowable weight, 1600 watts" , 
+                //others
+         "Sub-category" : "Induction Cooker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 31,
+         "Dimension(width in cm)" : 18,
+         "Dimension(height in cm)" : 40,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "     2,200.00    "
+      },
+      {
+         "itemCode" : "DWFS0002",
+         "category" : "Cooking",
+         "model" : "FS-13S3 | Food Steamer",
+         "description" : "3 Tier food Steamer, tranparent Steamer Basket, Detachable plastic base, Up to 60 minutes off timer setting, Bell sound indictaor when timer ends, water level indicator, 600 watts" , 
+                //others
+         "Sub-category" : "Induction Cooker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 27.5,
+         "Dimension(width in cm)" : 27,
+         "Dimension(height in cm)" : 25.5,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "      1,680.00   "
+      },
+
+      {
+         "itemCode" : "DWGS0017",
+         "category" : "Cooking",
+         "model" : "GSB-2110 | Single Burner",
+         "description" : "Single burner, detachable burner cap for easy cleaning, glass top hob, electric ignition, stainless drip pan" , 
+                //others
+         "Sub-category" : "Glass Top Single Burner",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 43.5,
+         "Dimension(width in cm)" : 34,
+         "Dimension(height in cm)" : 12.5,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "     1,150.00   "
+      },
+
+      {
+         "itemCode" : "DWGS0001",
+         "category" : "Cooking",
+         "model" : "SDB-10 | Double Burner",
+         "description" : "Double burner gas stove, stainless steel body, stainless steel cookware rest, automatic ignition" , 
+                //others
+         "Sub-category" : "Standard Double Burner",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 73,
+         "Dimension(width in cm)" : 40,
+         "Dimension(height in cm)" : 13,
+         "CBM of the packaging" : 0.04,
+         "SRP" : "   950.00  "
+      },
+      {
+         "itemCode" : "DWIG0008",
+         "category" : "Cooking",
+         "model" : "OGT-011 | Outdoor Grill",
+         "description" : "With two types of grill plate (rib and flat), portable (with wheels),foldable rack for easy storage, metal cover for maximum heat retension, temperature setting" , 
+                //others
+         "Sub-category" : "Outdoor Grill",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 94.5,
+         "Dimension(width in cm)" : 42,
+         "Dimension(height in cm)" : 22.5,
+         "CBM of the packaging" : 0.09,
+         "SRP" : "    6,350.00 "
+      },
+      {
+         "itemCode" : "DWOT0004BK",
+         "category" : "Cooking",
+         "model" : "DOT-603 BLACK | Oven Toaster",
+         "description" : "6-liter capacity, detachable stainless grill, aluminum bread tray, 15 mins. off timer function, 650 watts" , 
+                //others
+         "Sub-category" : "Oven Toaster",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 36,
+         "Dimension(width in cm)" : 23.5,
+         "Dimension(height in cm)" : 24.5,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "    850.00  "
+      },
+
+      {
+         "itemCode" : "DWOT0004MR",
+         "category" : "Cooking",
+         "model" : "DOT-603 BLACK | Oven Toaster",
+         "description" : "6-liter capacity, detachable stainless grill, aluminum bread tray, 15 mins. off timer function, 650 watts" , 
+                //others
+         "Sub-category" : "Oven Toaster",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 36,
+         "Dimension(width in cm)" : 23.5,
+         "Dimension(height in cm)" : 24.5,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "    850.00  "
+      },
+
+      {
+         "itemCode" : "DWPC0013",
+         "category" : "Cooking",
+         "model" : "EPC-505 | Electric Pressure Cooker",
+         "description" : "5 Liter Capacity, 6-in-1 Muticooker, 8 Program cooking function,Digital Display, 7 Stage of Safety Lock Sytem, Non-stick aluminum cooking pot,950 watts" , 
+                //others
+         "Sub-category" : "Electric Pressure Cooker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 32.5,
+         "Dimension(width in cm)" : 32.3,
+         "Dimension(height in cm)" : 34.5,
+         "CBM of the packaging" : 0.04,
+         "SRP" : "    4,200.00   "
+      },
+
+      {
+         "itemCode" : "DWPC0014",
+         "category" : "Cooking",
+         "model" : "PC-4IB | Pressure Cooker Induction Base",
+         "description" : "4-Liter capacity, Aluminum bowl and lid, bakelite phenolic handle, magnetic stainless bottom (induction base), 3mm bowl thickness, 5 safety features: pressure regulator, over pressure valve, seal ring, air vent cover lock, lid lock" , 
+                //others
+         "Sub-category" : "Pressure Cooker Induction Base",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 23,
+         "Dimension(width in cm)" : 16,
+         "Dimension(height in cm)" : 23.5,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "     1,280.00    "
+      },
+
+      {
+         "itemCode" : "DWPC0015",
+         "category" : "Cooking",
+         "model" : "PC-7IB | Pressure Cooker Induction Base",
+         "description" : "7-Liter capacity, Aluminum bowl and lid, bakelite phenolic handle, magnetic stainless bottom (induction base), 3mm bowl thickness, 5 safety features: pressure regulator, over pressure valve, seal ring, air vent cover lock, lid lock" , 
+                //others
+         "Sub-category" : "Pressure Cooker Induction Base",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 28,
+         "Dimension(width in cm)" : 18,
+         "Dimension(height in cm)" : 28.5,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "       1,550.00     "
+      },
+
+      {
+         "itemCode" : "DWRC0019",
+         "category" : "Cooking",
+         "model" : "RCS-03 | Rice Cooker",
+         "description" : "3 cups, aluminum rice bowl, Cool Touch body, Enamel coated steel body. Accessories: Steamer Attachment, Detachable supply cord, Serving spoon, Measuring cup. 350 watts" , 
+                //others
+         "Sub-category" : "Rice Cooker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 22,
+         "Dimension(width in cm)" : 22.5,
+         "Dimension(height in cm)" : 24.5,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "       850.00    "
+      },
+
+      {
+         "itemCode" : "DWRC0020",
+         "category" : "Cooking",
+         "model" : "RCS-05 | Rice Cooker",
+         "description" : "5 cups, aluminum rice bowl, Cool Touch body, Enamel coated steel body. Accessories: Steamer Attachment, Detachable supply cord, Serving spoon, Measuring cup. Color: Dark Gray. 400 watts" , 
+                //others
+         "Sub-category" : "Rice Cooker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 24,
+         "Dimension(width in cm)" : 24.5,
+         "Dimension(height in cm)" : 25.5,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "         950.00     "
+      },
+      {
+         "itemCode" : "DWRC0010",
+         "category" : "Cooking",
+         "model" : "RC-100S | Rice Cooker with steamer",
+         "description" : "10-cup rice capacity, with steamer, non-stick aluminum rice bowl, plastic handles, tempered glass cover,automatic keep warm function, 700 watts" , 
+                //others
+         "Sub-category" : "Rice Cooker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 28,
+         "Dimension(width in cm)" : 28,
+         "Dimension(height in cm)" : 29,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "   1,250.00 "
+      },
+
+      {
+         "itemCode" : "DWRC0023",
+         "category" : "Cooking",
+         "model" : "RCJ-8CS | Jar Type Rice Cooker",
+         "description" : "1.5 Liter capacity with stainless steel outer body, aluminum inner pot with non-stick coating, plastic steamer attachement, automatic keepwarm function, 650 watts" , 
+                //others
+         "Sub-category" : "Rice Cooker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 29.5,
+         "Dimension(width in cm)" : 29.5,
+         "Dimension(height in cm)" : 29.5,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "     1,380.00  "
+      },
+      
+      {
+         "itemCode" : "DWRC0015",
+         "category" : "Cooking",
+         "model" : "RC-100SS | Stainless Rice Cooker with steamer",
+         "description" : "1.8-liter capacity/10-cup rice capacity, stainless rice bowl, with steamer attachment, detachable supply cord, automatic-keep warm function, 700 watts" , 
+                //others
+         "Sub-category" : "Stainless Rice Cooker with steamer",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 28,
+         "Dimension(width in cm)" : 28,
+         "Dimension(height in cm)" : 28,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "     1,580.00   "
+      },
+
+      {
+         "itemCode" : "DWTR0009",
+         "category" : "Cooking",
+         "model" : "TB-7702 BLACK | Turbo Broiler",
+         "description" : "10-liter capacity, tempered glass bowl, halogen lamp, thermostay function, power heat control, light & timer indicator, 60 minutes timer control, auto-pause lift handle, convenient safety handle, Accessories: high food rack, low food rack, tong, and non-stick baked pan, Available color: Black, 1300 watts" , 
+                //others
+         "Sub-category" : "Turbo Broiler",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 35.5,
+         "Dimension(width in cm)" : 35.5,
+         "Dimension(height in cm)" : 24,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "     2,100.00   "
+      },
+
+      {
+         "itemCode" : "DWBL0021",
+         "category" : "Beverage",
+         "model" : "BL-11 BLACK | Blender",
+         "description" : "1.5 liter  glass jar Capacity, Touch Sensitive Control Panel with Light indicator, Three Speed Levels, Pulse Function, Frozen Delight of Smoothies Function, Ice Crush Function,  Dual Safety Switch (Jar and Lid), Anti Skid rubber footing, Liquidiser Base Spill guide, 700 watts" , 
+                //others
+         "Sub-category" : "Blender",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 27.5,
+         "Dimension(width in cm)" : 21,
+         "Dimension(height in cm)" : 34,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "     2,950.00    "
+      },
+
+      {
+         "itemCode" : "DWBL0020",
+         "category" : "Beverage",
+         "model" : "BL-125 | Blender",
+         "description" : " 1.25-liter jug capacity, ON, OFF and PULSE Function, single speed function,  4-spoke stainless steel blade, with water level markings, with safety switch, rubber footing, square shaped of the Jug, 300 watts" , 
+                //others
+         "Sub-category" : "Blender",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 29,
+         "Dimension(width in cm)" : 15,
+         "Dimension(height in cm)" : 22.5,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "      1,050.00     "
+      },
+
+      {
+         "itemCode" : "DWBL0018",
+         "category" : "Beverage",
+         "model" : "PBL-19 BLUE | Personal Blender",
+         "description" : " Two Tumbler (600ml and 300ml), Pulse Button Function, Jar Safety Switch, 4 Spokes Stainless Blade, Anti-skid rubbing footing, 350 watts" , 
+                //others
+         "Sub-category" : "Personal Blender",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 26.5,
+         "Dimension(width in cm)" : 13.5,
+         "Dimension(height in cm)" : 22.3,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "       1,280.00      "
+      },
+
+      {
+         "itemCode" : "DWBL0019",
+         "category" : "Beverage",
+         "model" : "PBL-19 PEACH | Personal Blender",
+         "description" : " Two Tumbler (600ml and 300ml), Pulse Button Function, Jar Safety Switch, 4 Spokes Stainless Blade, Anti-skid rubbing footing, 350 watts" , 
+                //others
+         "Sub-category" : "Personal Blender",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 26.5,
+         "Dimension(width in cm)" : 13.5,
+         "Dimension(height in cm)" : 22.3,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "   1,280.00       "
+      },
+
+      {
+         "itemCode" : "DWCM0009",
+         "category" : "Beverage",
+         "model" : "CM-1050 | Coffee Maker",
+         "description" : "10 cups capacity, glass carafe, transparent water reservoir,swivel filter holder, anti-drip system, permanent filter, non-stick keep warm plate, 800 watts" , 
+                //others
+         "Sub-category" : "Coffee Maker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 22.5,
+         "Dimension(width in cm)" : 17.5,
+         "Dimension(height in cm)" : 28.5,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "    900.00        "
+      },
+
+      {
+         "itemCode" : "DWCM0005",
+         "category" : "Beverage",
+         "model" : "CM-1080 | Coffee Maker",
+         "description" : "10-12 cup capacity, stainless steel coffee jug, water level indicator, permanent filter front panel,anti-drip system, 900 watts" , 
+                //others
+         "Sub-category" : "Coffee Maker",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 24,
+         "Dimension(width in cm)" : 21.5,
+         "Dimension(height in cm)" : 30.5,
+         "CBM of the packaging" : 0.02,
+         "SRP" : "   1,350.00  "
+      },
+
+      {
+         "itemCode" : "DWPE0001",
+         "category" : "Beverage",
+         "model" : "CB-150SS | Coffee Broiler",
+         "description" : "15 liters/ 100 cups, double-layer stainless steel wall, stainless steel body, water level indicator, keep warm indicator, 1600 watts" , 
+                //others
+         "Sub-category" : "Coffee Broiler",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 31.5,
+         "Dimension(width in cm)" : 32,
+         "Dimension(height in cm)" : 49.5,
+         "CBM of the packaging" : 0.05,
+         "SRP" : "     5,180.00   "
+      },
+
+      {
+         "itemCode" : "DWEK0009",
+         "category" : "Beverage",
+         "model" : "EK-155 JADE GREEN | Electric Kettle",
+         "description" : "1.5 Liter Capacity, Concealed heating element, Limescale filter, Transparent water level indicator, Push button to open lid, Cordless kettle, 360 degrees rotational base, Power light indicator,1500 watts" , 
+                //others
+         "Sub-category" : "Electric Kettle",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 19,
+         "Dimension(width in cm)" : 17.5,
+         "Dimension(height in cm)" : 19,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "      650.00    "
+      },
+
+      {
+         "itemCode" : "DWEK0006",
+         "category" : "Beverage",
+         "model" : "EK-155 DARK GRAY | Electric Kettle",
+         "description" : "1.5 Liter Capacity, Concealed heating element, Limescale filter, Transparent water level indicator, Push button to open lid, Cordless kettle, 360 degrees rotational base, Power light indicator,1500 watts" , 
+                //others
+         "Sub-category" : "Electric Kettle",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 19,
+         "Dimension(width in cm)" : 17.5,
+         "Dimension(height in cm)" : 19,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "      650.00    "
+      },
+
+      {
+         "itemCode" : "(To follow; new item)",
+         "category" : "Beverage",
+         "model" : "EK-155 DARK GRAY | Electric Kettle",
+         "description" : "1.8 -liter capacity, stainless steel inner and plastic outer body,  concealed heating element, heat-resistant plastic housing, safety lid lock, cordless kettle, power light indicator, 360  degrees  rotational base,1500 watts" , 
+                //others
+         "Sub-category" : "Electric Kettle",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 19,
+         "Dimension(width in cm)" : 16,
+         "Dimension(height in cm)" : 22,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "      750.00    "
+      },
+
+      {
+         "itemCode" : "(To follow; new item)",
+         "category" : "Beverage",
+         "model" : "EK-178 BEIGE | Electric Kettle",
+         "description" : "1.8 -liter capacity, stainless steel inner and plastic outer body,  concealed heating element, heat-resistant plastic housing, safety lid lock, cordless kettle, power light indicator, 360  degrees  rotational base,1500 watts" , 
+                //others
+         "Sub-category" : "Electric Kettle",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 19,
+         "Dimension(width in cm)" : 16,
+         "Dimension(height in cm)" : 22,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "      750.00    "
+      },
+
+      {
+         "itemCode" : "DWEK0010",
+         "category" : "Beverage",
+         "model" : "EK-188S | Electric Kettle",
+         "description" : "1.8 liter capacity, Auto Shut-off operation, Power Light indicator , Water Level Markings, Concealed Heating element, 360 degrees Rotational Base, 1800 Watts" , 
+                //others
+         "Sub-category" : "Electric Kettle",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 17.5,
+         "Dimension(width in cm)" : 20,
+         "Dimension(height in cm)" : 23.5,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "      850.00     "
+      },
+
+      {
+         "itemCode" : "DWDS0004",
+         "category" : "Beverage",
+         "model" : "WDS-12BL | Bottom Load Water Dispenser",
+         "description" : "Bottom Load, Hot, Cool and Cold Water Push Button, Stainless Steel Hot and Cold Tanks, Stainless Steel Drip Tray with Floater, Indicator LED: ON , COOLING AND HEATING. Empty Bottle Light Indicator, Sized for tall Pitchers and Bottles. Power Rating: Hot 420 watts , Cold 100 watts. Capacity : Hot 1.1 L , Cold 3.2L. " , 
+                //others
+         "Sub-category" : "Water Dispenser",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 36,
+         "Dimension(width in cm)" : 39,
+         "Dimension(height in cm)" : 112,
+         "CBM of the packaging" : 0.16,
+         "SRP" : "      11,580.00     "
+      },
+
+      {
+         "itemCode" : "DWDS0005",
+         "category" : "Beverage",
+         "model" : "WDS-15S | Top Load Water Dispenser",
+         "description" : "Top Load,  2 Faucets: Hot and Cold, 3 Light Indicator : ON, COOLING and HEATING, Hot water safety switch, Stainless Steel Hot and cold Tank, Power Rating: Cold: 100 watts/Hot :420 watts. Capacity: Cold 2.9L, Hot 1.1L. " , 
+                //others
+         "Sub-category" : "Water Dispenser",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 34,
+         "Dimension(width in cm)" : 37,
+         "Dimension(height in cm)" : 115,
+         "CBM of the packaging" : 0.15,
+         "SRP" : "   9,480.00      "
+      },
+
+        {
+         "itemCode" : "DWDS0007",
+         "category" : "Beverage",
+         "model" : "WDT-50H | Table Top Water Dispenser",
+         "description" : "Table top water dispenser, Hot and Warm option, Power indicator, Led Light indicator for heating, Water collector tray, Smart device, Drain outlet, Stainless steel hot water tank, Hot - 420 watts Cold-85 watts " , 
+                //others
+         "Sub-category" : "Table Top Water Dispenser",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 28,
+         "Dimension(width in cm)" :34,
+         "Dimension(height in cm)" : 43,
+         "CBM of the packaging" : 0.04,
+         "SRP" : "     1,780.00      "
+      },
+
+{
+         "itemCode" : "DWDS0006",
+         "category" : "Beverage",
+         "model" : "WDT-50H | Table Top Water Dispenser",
+         "description" : "Table top water dispenser, Hot and Cold options, Led Light indicator for heating and cooling, Electronic cooling, Water collector tray, Smart device, Drain outlet, Stainless steel hot water tank, Cold : 80 watts, Hot - 420 watts" , 
+                //others
+         "Sub-category" : "Table Top Water Dispenser",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 27,
+         "Dimension(width in cm)" :34,
+         "Dimension(height in cm)" : 42,
+         "CBM of the packaging" : 0.04,
+         "SRP" : "    3,050.00       "
+      },
+
+        {
+         "itemCode" : "DWJE0008",
+         "category" : "Beverage",
+         "model" : "JE-830 GOLD | Juice Extractor",
+         "description" : "1000ml pulp container,  600ml juice container, 70mm large feeding tube, 2 speed plus pulse function, Double safety Lock, Stainless Steel Filter, Transparent cover,  500 watts" , 
+                //others
+         "Sub-category" : "Juice Extractor",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 28.5,
+         "Dimension(width in cm)" :22.5,
+         "Dimension(height in cm)" : 35,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "   2,200.00        "
+      },
+
+
+      {
+         "itemCode" : "DWJE0007",
+         "category" : "Beverage",
+         "model" : "JE-830 SILVER | Juice Extractor",
+         "description" : "1000ml pulp container,  600ml juice container, 70mm large feeding tube, 2 speed plus pulse function, Double safety Lock, Stainless Steel Filter, Transparent cover,  500 watts" , 
+                //others
+         "Sub-category" : "Juice Extractor",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 28.5,
+         "Dimension(width in cm)" :22.5,
+         "Dimension(height in cm)" : 35,
+         "CBM of the packaging" : 0.03,
+         "SRP" : "     2,200.00        "
+      },
+
+      {
+         "itemCode" : "DWJE0003",
+         "category" : "Beverage",
+         "model" : "SLJ-11 | Slow Juicer",
+         "description" : "Upright Masticating Juicer Two stages of juicing: Grinding and  Dispels drier pulp Can process leafy greens Reverse Function Less Noise Easy to clean Lower power consumption Safe: No Sharp Blade Safety Switch Pulp Collector Spill Protected  150 watts" , 
+                //others
+         "Sub-category" : "Slow Juicer",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 26,
+         "Dimension(width in cm)" :39,
+         "Dimension(height in cm)" : 36,
+         "CBM of the packaging" : 0.04,
+         "SRP" : "     10,550.00        "
+      },
+
+      {
+         "itemCode" : "DWJE0005SS",
+         "category" : "Beverage",
+         "model" : "SLJ-22W SILVER | Slow Juicer",
+         "description" : "Two Stages of Juicing: Grinding and Squeezing, Strainer attachement for fruit cream maker, Large feed tube diameter: 7cm, Dispels drier pulp, Can process green leafy vegetables, with reverse function to avoid clogging, Less noise, easy to clean, Lower power consumption, Safe: No sharp blade, Safety Switch, Pulp collector, spill protected switch" , 
+                //others
+         "Sub-category" : "Juice Extractor",
+         "Room Category" : " Kitchen ",
+         "Dimension(length in cm)" : 35,
+         "Dimension(width in cm)" :32,
+         "Dimension(height in cm)" : 39,
+         "CBM of the packaging" : 0.05,
+         "SRP" : "   12,650.00         "
+      },
+
+      {
+         "itemCode" : "DWBS0036",
+         "category" : "Personal and Homecare",
+         "model" : "BSD-811 BLACK | Bath Scale",
+         "description" : "Digital weighing scale, 4 stable slip resistant rubber feet, step on function, 40cm digital dispay" , 
+                //others
+         "Sub-category" : "Bath Scale",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 42.5,
+         "Dimension(width in cm)" :33.8,
+         "Dimension(height in cm)" : 4.4,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "     1,180.00         "
+      },
+
+      {
+         "itemCode" : "DWBS0035",
+         "category" : "Personal and Homecare",
+         "model" : "BSD-811 PLAIN | Bath Scale",
+         "description" : "Digital weighing scale, 4 stable slip resistant rubber feet, step on function, 40cm digital dispay" , 
+                //others
+         "Sub-category" : "Bath Scale",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 42.5,
+         "Dimension(width in cm)" :33.8,
+         "Dimension(height in cm)" : 4.4,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "     1,180.00         "
+      },
+
+
+      {
+         "itemCode" : "DWBS0051",
+         "category" : "Personal and Homecare",
+         "model" : "BS-911 BLACK | Bath Scale",
+         "description" : "Weight level indicator against height (underweight, standard, overweight), " , 
+                //others
+         "Sub-category" : "Bath Scale",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 33.5,
+         "Dimension(width in cm)" :29.5,
+         "Dimension(height in cm)" : 5.7,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "    700.00       "
+      },
+
+      {
+         "itemCode" : "DWBS0031",
+         "category" : "Personal and Homecare",
+         "model" : "BS-911 BLUE | Bath Scale",
+         "description" : "Weight level indicator against height (underweight, standard, overweight), " , 
+                //others
+         "Sub-category" : "Bath Scale",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 33.5,
+         "Dimension(width in cm)" :29.5,
+         "Dimension(height in cm)" : 5.7,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "    700.00       "
+      },
+
+      {
+         "itemCode" : "DWBS0052",
+         "category" : "Personal and Homecare",
+         "model" : "BS-911 DARK BLUE | Bath Scale",
+         "description" : "Weight level indicator against height (underweight, standard, overweight), " , 
+                //others
+         "Sub-category" : "Bath Scale",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 33.5,
+         "Dimension(width in cm)" :29.5,
+         "Dimension(height in cm)" : 5.7,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "    700.00       "
+      },
+
+      {
+         "itemCode" : "DWBS0053",
+         "category" : "Personal and Homecare",
+         "model" : "BS-915 BLUE | Bath Scale",
+         "description" : "Step on mechanism, consistent and accurate measurement " , 
+                //others
+         "Sub-category" : "Bath Scale",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 38,
+         "Dimension(width in cm)" :31.7,
+         "Dimension(height in cm)" : 7,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "   1,050.00       "
+      },
+
+      {
+         "itemCode" : "DWBS0054",
+         "category" : "Personal and Homecare",
+         "model" : "BS-915 DARK BLUE | Bath Scale",
+         "description" : "Step on mechanism, consistent and accurate measurement " , 
+                //others
+         "Sub-category" : "Bath Scale",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 38,
+         "Dimension(width in cm)" :31.7,
+         "Dimension(height in cm)" : 7,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "   1,050.00       "
+      },
+
+      {
+         "itemCode" : "DWVC0004",
+         "category" : "Personal and Homecare",
+         "model" : "VC-300TP | Vacuum Cleaner ",
+         "description" : "Wet-dry-blow function, 23-liter capacity with permanent filter, strong suction power, transparent body made from ABS plastic, accessories included, 1200 watts " , 
+                //others
+         "Sub-category" : "Vacuum Cleaner",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 35.5,
+         "Dimension(width in cm)" :35,
+         "Dimension(height in cm)" : 49,
+         "CBM of the packaging" : 0.06,
+         "SRP" : "    4,550.00      "
+      },
+
+        {
+         "itemCode" : "DWVC0003",
+         "category" : "Personal and Homecare",
+         "model" : "VC-323SS | Vacuum Cleaner",
+         "description" : "Wet-dry-blow function, 32-liter capacity with permanent filter, stainless steel body, strong suction power, 20 hrs. Continuous motor, accessories included, 1300 watts" , 
+                //others
+         "Sub-category" : "Vacuum Cleaner",
+         "Room Category" : " Bedroom | Living Room | Kitchen | Office ",
+         "Dimension(length in cm)" : 40,
+         "Dimension(width in cm)" :40,
+         "Dimension(height in cm)" : 57,
+         "CBM of the packaging" : 0.10,
+         "SRP" : "   6,850.00    "
+      },
+        {
+         "itemCode" : "DWFI0012",
+         "category" : "Personal and Homecare",
+         "model" : "DI-520 | Dry Iron",
+         "description" : "Heavy type dry iron (1.0kg), Aluminum sole plate, easy temperature setting, braided cord,1050 watts" , 
+                //others
+         "Sub-category" : "Dry Iron",
+         "Room Category" : " Bedroom | Personal ",
+         "Dimension(length in cm)" : 11.5,
+         "Dimension(width in cm)" :27.5,
+         "Dimension(height in cm)" : 12.5,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "    650.00  "
+      },
+
+      {
+         "itemCode" : "DWFI0007BL",
+         "category" : "Personal and Homecare",
+         "model" : "SI-752NS BLUE | Steam Iron",
+         "description" : "Non-stick sole plate, easy temeprature setting, vertical steam & spray function, 320 ml. water container, 1.5-meter braided cord, weight 1.2 kg, 1400 watts" , 
+                //others
+         "Sub-category" : "Steam Iron",
+         "Room Category" : " Bedroom | Personal ",
+         "Dimension(length in cm)" : 29,
+         "Dimension(width in cm)" :15,
+         "Dimension(height in cm)" : 15.5,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "     1,050.00  "
+      },
+
+      {
+         "itemCode" : "DWFI0007RD",
+         "category" : "Personal and Homecare",
+         "model" : "SI-752NS RED | Steam Iron",
+         "description" : "Non-stick sole plate, easy temeprature setting, vertical steam & spray function, 320 ml. water container, 1.5-meter braided cord, weight 1.2 kg, 1400 watts" , 
+                //others
+         "Sub-category" : "Steam Iron",
+         "Room Category" : " Bedroom | Personal ",
+         "Dimension(length in cm)" : 29,
+         "Dimension(width in cm)" :15,
+         "Dimension(height in cm)" : 15.5,
+         "CBM of the packaging" : 0.01,
+         "SRP" : "     1,050.00  "
+      },
+
+      {
+         "itemCode" : "DWSN0004",
+         "category" : "Laundry",
+         "model" : "SDR-622S | Spin Dryer",
+         "description" : "6kg spin dry capacity, 5-minute spin timer, stainless steel spin tub, water inlet access, thermal fuse protected motor, 230 Vac 60Hz, 160 Watts" , 
+                //others
+         "Sub-category" : "Spin Dryer",
+         "Room Category" : " Personal ",
+         "Dimension(length in cm)" : 46,
+         "Dimension(width in cm)" :45.5,
+         "Dimension(height in cm)" : 76.5,
+         "CBM of the packaging" : 0.16,
+         "SRP" : "    3,380.00   "
+      },
+
+      {
+         "itemCode" : "DWSN0006",
+         "category" : "Laundry",
+         "model" : "SDR-633 | Spin Dryer",
+         "description" : "6.2kg spin dry capacity, 5-minute spin timer, rust/corrosion proff (plastic body), transparent tub cover, tat protected buttom design, cover protected panel, water inlet access, 150 watts" , 
+                //others
+         "Sub-category" : "Spin Dryer",
+         "Room Category" : " Personal ",
+         "Dimension(length in cm)" : 44.5,
+         "Dimension(width in cm)" :44.5,
+         "Dimension(height in cm)" : 80,
+         "CBM of the packaging" : 0.16,
+         "SRP" : "   3,280.00    "
+      },
+
+      {
+         "itemCode" : "DWWH0019",
+         "category" : "Laundry",
+         "model" : "WM-620AB BLUE | Single Tub Washing Machine",
+         "description" : "6.2kg capacity 15 min. wash times Wash/Drain Function See through top cover Rust/ corrosion proof plastic body, Two-way wash action, 340 watts " , 
+                //others
+         "Sub-category" : "Washing Machine",
+         "Room Category" : " Personal ",
+         "Dimension(length in cm)" : 51,
+         "Dimension(width in cm)" :44.5,
+         "Dimension(height in cm)" : 95,
+         "CBM of the packaging" : 0.22,
+         "SRP" : "     2,950.00   "
+      },
+
+      {
+         "itemCode" : "DWWH0013",
+         "category" : "Laundry",
+         "model" : "WM-850 | Single Tub Washing Machine",
+         "description" : "8.5 kg capacity Wash/Drain Function See through top cover Rust/ corrosion proof plastic body Two-way wash action 420 watts" , 
+                //others
+         "Sub-category" : "Washing Machine",
+         "Room Category" : " Personal ",
+         "Dimension(length in cm)" : 58,
+         "Dimension(width in cm)" :54,
+         "Dimension(height in cm)" : 96,
+         "CBM of the packaging" : 0.3,
+         "SRP" : "     4,200.00    "
+      },
+
+      {
+         "itemCode" : "DWWH0022",
+         "category" : "Laundry",
+         "model" : "WM-750 | Single Tub Washing Machine",
+         "description" : "7.5kg capacity, 15 min. wash timer, 2 washing functions (delicate/normal), wash/drain selector, auto-soak  function, buzzer alert, rust/corrosion proof (plastic body), swivel transparent tub cover, rat protected bottom design, elevated panel, water inlet access for wash tub and spin dry tub, 420 watts" , 
+                //others
+         "Sub-category" : "Washing Machine",
+         "Room Category" : " Personal ",
+         "Dimension(length in cm)" : 53.5,
+         "Dimension(width in cm)" :53.5,
+         "Dimension(height in cm)" : 93,
+         "CBM of the packaging" : 0.28,
+         "SRP" : "    3,900.00     "
+      },
+
+      {
+         "itemCode" : "DWWH0016",
+         "category" : "Laundry",
+         "model" : "WMT-600 | Twin Tub Washing Machine",
+         "description" : "6.0 kg washing capacity, 3.6 kg spin dry capacity,  15 minutes wash timer, 2 washing program (Gentle & Soft), Drain selector,  5 minutes  spin dry timer, detachable wash tub cover, water inlet access in wash tub and spin dry tub, Lint Filter,  Wash - 320 watts, Spin - 125 watts" , 
+                //others
+         "Sub-category" : "Washing Machine",
+         "Room Category" : " Personal ",
+         "Dimension(length in cm)" : 76.5,
+         "Dimension(width in cm)" :45.3,
+         "Dimension(height in cm)" : 88,
+         "CBM of the packaging" : 0.31,
+         "SRP" : "    5,900.00   "
+      },
+
+      {
+         "itemCode" : "DWWH0017",
+         "category" : "Laundry",
+         "model" : "WMT-700 | Twin Tub Washing Machine",
+         "description" : "7.0kg washing capacity , 4.6kg spin dry capacity, 15 minutes wash timer , 2 washing program (gentle & soft), drain selector, 5 minutes spin dry timer, detachable wash tub cover, water inlet access in wash tub and spin dry tub, Lint filter, Wash - 340 watts Spin - 135 watts" , 
+                //others
+         "Sub-category" : "Washing Machine",
+         "Room Category" : " Personal ",
+         "Dimension(length in cm)" : 77,
+         "Dimension(width in cm)" :47.5,
+         "Dimension(height in cm)" : 90.5,
+         "CBM of the packaging" : 0.34,
+         "SRP" : "    6,350.00   "
+      },
+
+      {
+         "itemCode" : "DWWH0018",
+         "category" : "Laundry",
+         "model" : "WMT-800 | Twin Tub Washing Machine",
+         "description" : "8.0 kg washing capacity, 4.6kg spin dry capacity, 15 minutes wash timer, 2 washing program (gentle & soft), drain selector, 5 minutes spin dry tub, detachable wash tub cover, water inlet access in wash tub and spin dry tub , Lint filter, Wash -370 watts, Spin - 135 watts" , 
+                //others
+         "Sub-category" : "Washing Machine",
+         "Room Category" : " Personal ",
+         "Dimension(length in cm)" : 81.7,
+         "Dimension(width in cm)" :47.3,
+         "Dimension(height in cm)" : 95.5,
+         "CBM of the packaging" : 0.37,
+         "SRP" : "    7,380.00    "
+      },
+
+
+      
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+
+
+
+
+
+   ]
+}
+//End of Dowell
+
+{
+    //start of Eglo
+   "brandName" : [
+      {
+         "itemCode" : "EGPN201327",
+         "category" : "Lighting",
+         "model" : "FUEVA 201327 PINLIGHTS",
+         "description" : "LED light  Ø90 Warm White 3W ;  Lumen = 210lm",
+         //others
+         "Sub-category" : "Pinlights",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 10,
+         "Dimension(width in cm)" : 3,
+         "Dimension(height in cm)" : 14,
+         "CBM of the packaging" : 0.00042,
+         "SRP" : "550.00"
+        
+
+
+      },    
+
+      {
+         "itemCode" : "EGPN201332",
+         "category" : "Lighting",
+         "model" : "FUEVA 201332 PINLIGHTS ",
+         "description" : "LED light Ø120 White Warm White 6W ; Lumen = 420lm",
+         //others
+         "Sub-category" : "Pinlights",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 13,
+         "Dimension(width in cm)" : 3,
+         "Dimension(height in cm)" : 16,
+         "CBM of the packaging" : 0.000624,
+         "SRP" : "750.00"
+        
+
+
+      },   
+
+      {
+         "itemCode" : "EGPN201334",
+         "category" : "Lighting",
+         "model" : "FUEVA 201334 PINLIGHTS  ",
+         "description" : "LED light Ø120 White  6W ; Lumen = 420lm",
+         //others
+         "Sub-category" : "Pinlights",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 13,
+         "Dimension(width in cm)" : 3,
+         "Dimension(height in cm)" : 16,
+         "CBM of the packaging" : 0.000624,
+         "SRP" : "750.00"
+        
+
+
+      },   
+
+      {
+         "itemCode" : "EGPN201334",
+         "category" : "Lighting",
+         "model" : "FUEVA 201337 PINLIGHTS ",
+         "description" : "LED light Ø120 White  6W ; Lumen = 420lm",
+         //others
+         "Sub-category" : "Pinlights",
+         "Room Category" : "Bedroom | Living Room | Kitchen | Office",
+         "Dimension(length in cm)" : 18.5,
+         "Dimension(width in cm)" : 3,
+         "Dimension(height in cm)" : 22,
+         "CBM of the packaging" :0.001221,
+         "SRP" : "1180.00"
+        
+
+
+      },   
+   ]
+
+}
+
+//End of eglo
+
+
+{
+    //start of irest
+   "brandName" : [
+      {
+         "itemCode" : "IRME0010",
+         "category" : "Medical and Wellness",
+         "model" : "SL-C52 | Handheld Massage ",
+         "description" : "Hand held massage Equipment ; Vibrating massage ; 15° light wave heating ",
+         //others
+         "Sub-category" : "Massage Equipment",
+         "Room Category" : "Bedroom | Living Room | Personal",
+         "Dimension(length in cm)" : 41.5,
+         "Dimension(width in cm)" : 11.5 ,
+         "Dimension(height in cm)" : 8.5,
+         "CBM of the packaging" : 0.004   ,
+         "SRP" : "2,080.00"
+        
+
+
+      }, 
+
+      {
+         "itemCode" : "IRMB0010",
+         "category" : "Medical and Wellness",
+         "model" : " SL-D12 | Yellow Back Massager ",
+         "description" : "Designed with 6 massage heads (3 per side) for kneading the back and waist Rejuvenates , relieves muscle sore, enhances blood circulation and improves metabolism ",
+         //others
+         "Sub-category" : "Massage Equipment",
+         "Room Category" : "Bedroom | Living Room | Personal",
+         "Dimension(length in cm)" : 38,
+         "Dimension(width in cm)" : 16.5 ,
+         "Dimension(height in cm)" : 30.5,
+         "CBM of the packaging" : 0.019   ,
+         "SRP" : "2,900.00"
+        
+
+
+      }, 
+
+      {
+         "itemCode" : "IRMB0001",
+         "category" : "Medical and Wellness",
+         "model" : " SL-D12-1 Brown Back Massager   ",
+         "description" : "Comes with 6 massage heads (3 per side) for kneading the back and waist Rejuvenates, relieves muscles sore, enhances blood circulation and improves metablism",
+         //others
+         "Sub-category" : "Massage Equipment",
+         "Room Category" : "Bedroom | Living Room | Personal",
+         "Dimension(length in cm)" : 38,
+         "Dimension(width in cm)" : 16.5 ,
+         "Dimension(height in cm)" : 30.5,
+         "CBM of the packaging" : 0.019   ,
+         "SRP" : "  3,880.00   "
+        
+
+
+      }, 
+
+      {
+         "itemCode" : "IRME0005",
+         "category" : "Medical and Wellness",
+         "model" : "  SL-E05 Memo Pillow   ",
+         "description" : "Made from premium quality memory foam that is sensitive to the heat of the human body ; It contours to the body's weight and shape ; As it responds to your body's warmth,  it molds and shapes to your neck for correct spinal alignment, removing the pressure points of aches and pains and enabling your neck and shoulder muscles to relax completely",
+         //others
+         "Sub-category" : "Massage Equipment",
+         "Room Category" : "Bedroom | Living Room | Personal",
+         "Dimension(length in cm)" : 71,
+         "Dimension(width in cm)" : 10 ,
+         "Dimension(height in cm)" : 38,
+         "CBM of the packaging" : 0.03   ,
+         "SRP" : "  2,080.00   "
+        
+
+
+      }, 
+
+      {
+         "itemCode" : "IRLM0002",
+         "category" : "Medical and Wellness",
+         "model" : "   SL-C22 Gray Leg massager   ",
+         "description" : "3 kinds of automatic massage functions - leg shaping, ease and physical therapy   ; 3 levels of massage intensity - strong, medium and weak  ; 20 minutes massage duration ; 34 airbags (12 for the calf massage, 22 for sole massage)  Stimulates blood circulation, eliminates muscle aches , and improves flexibility and energy of the feet
+
+         ",
+         //others
+         "Sub-category" : "Massage Equipment",
+         "Room Category" : "Bedroom | Living Room | Personal",
+         "Dimension(length in cm)" : 59,
+         "Dimension(width in cm)" : 50.5 ,
+         "Dimension(height in cm)" : 53,
+         "CBM of the packaging" : 0.158   ,
+         "SRP" : " 26,300.00  "
+        
+
+
+      }, 
+   ]
+}
+
+//End of Irest
+
+
+{
+    //start of irest
+   "brandName" : [
+      {
+          "itemCode" : "KREM0045",
+         "category" : "Beverage",
+         "model" : " EA8250 Espresso Machine  ",
+         "description" : "Automatic Espresso Machine/ Black Finish ABS Plastic - Type Body/ 1.7L Water Tank/ Manual Frother Equipped/ Digital Touch-Screen Interface/ Built In Conical Grinder/ 1450W/ Made in France/ 275 G Bean Container with Integrated Adjustable Grinder w/ 3- fineness settings. COFFEE OPTIONS: Espresso, Strong Espresso, Coffee, Long Coffee",
+         //others
+         "Sub-category" : "Espresso Machine",
+         "Room Category" : "Kitchen | Beverage",
+         "Dimension(length in cm)" : 50,
+         "Dimension(width in cm)" : 29 ,
+         "Dimension(height in cm)" : 39,
+         "CBM of the packaging" : "same as dimensions"   ,
+         "SRP" : "    69,980.00   "
+      },
+
+      {
+          "itemCode" : "KREM0039",
+         "category" : "Beverage",
+         "model" : " EA8108 Espresso Machine  ",
+         "description" : "Automatic Espresso Machine/ Black Finish ABS Plastic - Type Body/ 1.7L Water Tank/ Manual Frother Equipped/ Digital Touch-Screen Interface/ Built In Conical Grinder/ 1450W/ Made in France/ 275 G Bean Container with Integrated Adjustable Grinder w/ 3- fineness settings. COFFEE OPTIONS: Espresso, Strong Espresso, Coffee, Long Coffee",
+         //others
+         "Sub-category" : "Espresso Machine",
+         "Room Category" : "Kitchen | Beverage",
+         "Dimension(length in cm)" : 50,
+         "Dimension(width in cm)" : 29 ,
+         "Dimension(height in cm)" : 39,
+         "CBM of the packaging" : "same as dimensions"   ,
+         "SRP" : "      58,980.00    "
+      },
+
+      {
+          "itemCode" : "KREM0044",
+         "category" : "Beverage",
+         "model" : " XP5620 Espresso Machine  ",
+         "description" : "Manual Espresso Machine/Black Finish ABS Plastic - Type Body/1.1L Removable Water Tank/ Automatic Tamping/Manual Frother Equipped/ E.S.E Compatible/1450W/Assembled in China",
+         //others
+         "Sub-category" : "Espresso Machine",
+         "Room Category" : "Kitchen | Beverage",
+         "Dimension(length in cm)" : 22.5,
+         "Dimension(width in cm)" : 26 ,
+         "Dimension(height in cm)" : 26.5,
+         "CBM of the packaging" : "same as dimensions"   ,
+         "SRP" : "        21,980.00    "
+      },
+
+      {
+          "itemCode" : "KRCF0002",
+         "category" : "Beverage",
+         "model" : " F203 Coffee Mill ",
+         "description" : "Multi-purpose grinder (best for coffee, wheat and spices/ Manual operation /Compact and handy /72-gram capacity /160 watts",
+         //others
+         "Sub-category" : "Coffee Mill",
+         "Room Category" : "Kitchen | Beverage",
+         "Dimension(length in cm)" : 10.5,
+         "Dimension(width in cm)" : 10.5,
+         "Dimension(height in cm)" : 23,
+         "CBM of the packaging" : "same as dimensions"   ,
+         "SRP" : "          2,080.00     "
+      },
+
+
+      {
+          "itemCode" : "KRCF0004BK",
+         "category" : "Cooking",
+         "model" : " GVX2 Coffee Mill  ",
+         "description" : "Professional quality grinder /17-position fineness selector  / Burr milling system / 2 to 12 - cup selector /Double safety lids   /225-gram capacity /110 watts",
+         //others
+         "Sub-category" : "Coffee Mill",
+         "Room Category" : "Kitchen | Beverage",
+         "Dimension(length in cm)" : 20,
+         "Dimension(width in cm)" : 16 ,
+         "Dimension(height in cm)" : 27.5,
+         "CBM of the packaging" : "same as dimensions"   ,
+         "SRP" : "        4,980.00     "
+      },
+
+      {
+          "itemCode" : "KREK0006",
+         "category" : "Cooking",
+         "model" : " FLF3 Electric Kettle  ",
+         "description" : "1.6 Liter water capacity /Unique safety lid locking system / Concealed heating element  / External water level indicator  / Anti- scale filter   /360 degrees rotating base  /2200 watts                                                                           ",
+         //others
+         "Sub-category" : "Electric Kettle",
+         "Room Category" : "Kitchen | Beverage",
+         "Dimension(length in cm)" : 23,
+         "Dimension(width in cm)" : 21 ,
+         "Dimension(height in cm)" : 29,
+         "CBM of the packaging" : "same as dimensions"   ,
+         "SRP" : "          5,580.00    "
+      },
+   ]
+}
